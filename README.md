@@ -10,7 +10,7 @@ Computer Programming associate graduate (**Işık University**) building a stron
 
 #### 🛠️ Technical Background
 - **Networking & Security:** TCP/IP, OSI Model, Nmap, Linux CLI, Basic Log Analysis, SIEM Concepts, IoT Fundamentals
-- **Programming & Web:** Python, C, C#, JavaScript, HTML5, CSS3
+- **Programming & Web:** Python, C, JavaScript, HTML5, CSS3
 - **Database & Environment:** PostgreSQL, Git, Kali Linux (VM)
 
 #### 📫 Connect
